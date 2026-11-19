@@ -18,6 +18,6 @@ I'm learning Python and AI/ML, and I'm building my skills step by step.
 Python ·
 
 ## 📫 Connect with me
-- LinkedIn: add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/rabit-rafi/
 
 *I'm documenting my learning journey here. Projects coming soon!*
