@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rafi 👋
 
-<!--
-**rabit-rafi/rabit-rafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diploma in Computer Science & Engineering student from Bangladesh.
+I'm learning Python and AI/ML, and I'm building my skills step by step.
 
-Here are some ideas to get you started:
+## 🌱 What I'm learning right now
+- Python (data structures, OOP, file handling)
+- Git and GitHub
+- Data analysis with Pandas and NumPy
+- SQL basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Where I'm headed
+- Machine Learning with Scikit-learn
+- Generative AI and LLM-based apps
+- Building and deploying real projects
+
+## 🛠️ Tech I know
+Python ·
+
+## 📫 Connect with me
+- LinkedIn: add your LinkedIn link here
+
+*I'm documenting my learning journey here. Projects coming soon!*
